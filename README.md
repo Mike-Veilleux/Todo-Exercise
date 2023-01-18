@@ -6,6 +6,8 @@ This repo contains the Todo exercise from my MIT Full Stack development course.
 
 ![Screenshot](https://github.com/Mike-Veilleux/Todos/tree/main/src/assets/ReactTodoExercise.png?raw=true "Screenshot")
 
+<img src="https://github.com/Mike-Veilleux/Todos/tree/main/src/assets/ReactTodoExercise.png" style=" width:60px ; height:60px "  >
+
 ## Description
 
 A simple todo app using React and Vite toolchain. This exercise targets a few skills building
