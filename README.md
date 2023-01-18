@@ -19,7 +19,7 @@ A simple todo app using React and Vite toolchain. This exercise targets a few sk
 
 Clone or download this repo, go to the project folder and run the following commands from a terminal window:
 
-Install dependency
+Install dependencies
 
 ```
 npm install
