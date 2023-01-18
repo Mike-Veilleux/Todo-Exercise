@@ -4,6 +4,8 @@
 
 This repo contains the Todo exercise from my MIT Full Stack development course.
 
+![Screenshot](/Todos/assets/ReactTodoExercise.png?raw=true "Screenshot")
+
 ## Description
 
 A simple todo app using React and Vite toolchain. This exercise targets a few skills building
