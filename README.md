@@ -4,7 +4,7 @@
 
 This repo contains the Todo exercise from my MIT Full Stack development course.
 
-<img src="https://github.com/Mike-Veilleux/Todos/src/assets/ReactTodoExercise.png">
+<img src="https://github.com/Mike-Veilleux/Todos/blob/main/src/assets/ReactTodoExercise.png">
 
 ## Description
 
