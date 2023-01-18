@@ -1,0 +1,62 @@
+:root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+}
+
+.todoContainer {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 0.25rem;
+}
+
+.todoRow {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.25rem;
+  border: 1px solid rgb(224, 224, 230);
+  border-radius: 0.65rem;
+  padding: 3px;
+  width: 100%;
+}
+form {
+  width: 100%;
+}
+
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 3px 0;
+  box-sizing: border-box;
+  border: 1px solid rgb(224, 224, 230);
+  border-radius: 0.65rem;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: start;
+}
+
+.isFinished {
+  color: rgb(189, 68, 68);
+  text-decoration: line-through;
+}
+.fa-circle-check {
+  color: rgb(38, 180, 38);
+}
+.fa-circle-xmark {
+  color: rgb(189, 68, 68);
+}
