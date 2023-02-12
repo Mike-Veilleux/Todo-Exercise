@@ -4,6 +4,8 @@
 
 This repo contains the Todo exercise from my MIT Full Stack development course.
 
+Live demo [here](https://mike-veilleux.github.io/Todo-Exercise/)
+
 <img src="https://github.com/Mike-Veilleux/Todo-Exercise/blob/main/src/assets/ReactTodoExercise.png">
 
 ## Description
